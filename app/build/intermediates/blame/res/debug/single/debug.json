@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/Finger550Demo1/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/Users/cay/AndroidStudioProjects/Finger550Demo1/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/Finger550Demo1/app/build/intermediates/res/merged/debug/drawable-hdpi_fingerprint.png.flat",
+        "source": "/Users/cay/AndroidStudioProjects/Finger550Demo1/app/src/main/res/drawable-hdpi/fingerprint.png"
+    },
+    {
+        "merged": "/Users/cay/AndroidStudioProjects/Finger550Demo1/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/cay/AndroidStudioProjects/Finger550Demo1/app/src/main/res/layout/activity_main.xml"
+    }
+]
